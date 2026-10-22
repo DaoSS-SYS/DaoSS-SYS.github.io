@@ -29,3 +29,7 @@ assets/Oleg_Zhuravlev_CV.pdf   резюме для скачивания
 
 Репозиторий называется `DaoSS-SYS.github.io`: GitHub Pages отдаёт его на https://daoss-sys.github.io/
 (Settings → Pages → Source: «Deploy from a branch», ветка `main`, папка `/ (root)`).
+
+## Лицензия
+
+Код сайта распространяется по лицензии MIT, см. [LICENSE](LICENSE). Фотография, тексты резюме и другое личное содержимое в лицензию не входят: все права сохранены за автором.
